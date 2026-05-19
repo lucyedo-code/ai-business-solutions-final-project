@@ -1,0 +1,5 @@
+faker==37.1.0
+sqlalchemy==2.0.41
+pandas==2.2.3
+numpy==2.2.5
+streamlit==1.45.1
